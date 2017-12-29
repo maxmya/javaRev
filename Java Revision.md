@@ -934,7 +934,7 @@ The main structure of Java code segment is the Class , Think about classes as th
 
 The keyword `class` enables us to create new classes in .java files with the following syntax 
 
-![Java Class](/home/maxmya/Documents/TechNinja/classes.png)
+![Java Class](/classes.png)
 
 Generally all java classes is consisting of the same structure and always being of same order in the implementation . 
 
