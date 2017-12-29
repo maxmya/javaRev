@@ -18,7 +18,7 @@ It's the same way that how a Japanese person could understand Arabic for the fir
 
 
 
-![Translation Process](/home/maxmya/Documents/TechNinja/trans.png)
+![Translation Process](/trans.png)
 
 
 
