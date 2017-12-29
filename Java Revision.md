@@ -26,7 +26,7 @@ With this concept we could translate any language to Japanese , in the same way 
 
 
 
-![Trans To Binary](/home/maxmya/Documents/TechNinja/prog.png)
+![Trans To Binary](/prog.png)
 
 > Note : Compilers and interpreters completely different in their way to execute programs written in codes but they end so far the same way as a binary tasks to the computer .
 
@@ -61,7 +61,7 @@ Java have found a way to solve this problem and came with the idea of the `cross
 
 So once you installed the **JVM** into your system you could run any java byte code whatever the platform which compiled it.
 
-![3JVM](/home/maxmya/Documents/TechNinja/jvm.png)
+![3JVM](/jvm.png)
 
 > Note : Every Java Code file have .java extension and java compiled file(byte code file) have .class extension
 
@@ -698,7 +698,7 @@ acsess_modifire properties return_type name(parameter_list){
 }
 ```
 
-![Method Parts](/home/maxmya/Documents/TechNinja/methodparts.jpg)
+![Method Parts](/methodparts.jpg)
 
 
 
