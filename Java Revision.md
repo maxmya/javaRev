@@ -603,7 +603,7 @@ int [] arr = new int[5];
 
 Arrays declaration `int [] arr ;` is normally stored in `stack` , the assignment expression `arr = new int[5];` stored in `heap` and puts the *reference address* into the `stack` part of the array.
 
-![Array In Memory](/home/maxmya/Documents/TechNinja/arr.jpg)
+![Array In Memory](/arr.jpg)
 
 Arrays in java are indexed from `0` to `size-1` .
 
